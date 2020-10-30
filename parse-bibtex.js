@@ -3,6 +3,9 @@
 // CommonJS port by Mikola Lysenko 2013
 //
 // ES6 module port by Carlos Scheidegger 2020
+//
+// 2020-10-28:
+//   - 
 
 // Issues:
 //  no comment handling within strings
