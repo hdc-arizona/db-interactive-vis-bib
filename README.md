@@ -7,7 +7,7 @@ Analysis](https://hdc.cs.arizona.edu/projects/end-to-end-visual-big-data/db-tech
 
 ## tl;dr
 
-Here's the annotated [BibTeX file](vis-db.bib).
+Here's the annotated [BibTeX file](vis-db.bib). If you want to search it interactively, you can use the [website](https://hdc-arizona.github.io/db-interactive-vis-bib/).
 
 ## Annotations
 
